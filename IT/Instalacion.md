@@ -35,5 +35,5 @@ Si desea iniciar el servicio puede utilizar  `c:\Dinaup\TAdmin.exe`
 
 
 
-**Note** 
-This is a note
+> **Note** 
+> This is a note
