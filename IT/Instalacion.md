@@ -31,3 +31,9 @@ Si desea iniciar el servicio puede utilizar  `c:\Dinaup\TAdmin.exe`
 # Dinaup Terminal
 
 ![](/imagenes/Captura_DinaupTerminal.PNG)
+
+
+
+
+**Note** 
+This is a note
