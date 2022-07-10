@@ -27,29 +27,17 @@ La base de datos PostgreSQL está en `c\Dinaup\SQL64\data`
 Si desea iniciar el servicio puede utilizar  `c:\Dinaup\TAdmin.exe`
 
 
+> **Note** 
+> Este ejecutable únicamente está en el servidor
 
 # Dinaup Terminal
 
 ![](/imagenes/Captura_DinaupTerminal.PNG)
 
-
-
-
 > **Note** 
-> This is a note
+> Este ejecutable únicamente está tanto en el servidor, como en el ordenador de los empleados.
 
 
-> [!NOTE]
-> Information the user should notice even if skimming.
 
-> [!TIP]
-> Optional information to help a user be more successful.
 
-> [!IMPORTANT]
-> Essential information required for user success.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
-> [!WARNING]
-> Dangerous certain consequences of an action.
+ 
