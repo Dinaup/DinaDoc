@@ -4,18 +4,18 @@
 
 
 # Introducción
-A nivel de IT. Dinaup no es más que un gestor de datos. Un software con una interfaz amigable que fácilita a las empresas el proceso de (Agregar / Editr / Eliminar / Compartir) los datos. \
+A nivel de IT. Dinaup no es más que un gestor de datos. Un software con una interfaz amigable que facilita a las empresas el proceso de (Agregar / Editr / Eliminar / Compartir) los datos. \
 Los datos están guardados en una base de datos PostgreSQL.
 
 Hemos desarrollado 2 aplicaciones (.exe) principales.
 1. **DinaupS.exe**: Este ejecutable es Dinaup Servidor. Un servicio de Windows. El que conecta a PostrgreSQL. No tiene interfaz, se ejecutando en segundo plano.
 1. **Dinaup.exe**: Este ejecutable es el Terminal de Dinaup. Un software con interfaz amigable desde el cual se administran los datos de la empresa. Este ejecutable, por motivos de seguridad y optimización conecta por TCP / IP a `Dinaup Servidor`
-1. **Tadmin.exe**: Esta aplicacion es una pequeña herramienta utilizada para poder iniciar, detener el Dinaup Servidor.
+1. **Tadmin.exe**: Esta aplicación es una pequeña herramienta utilizada para poder iniciar, detener el Dinaup Servidor.
 
 
 # Dinaup Servidor
 
-![](/imagenes/Captura_DinaupServidor.PNG)
+![](../imagenes/Captura_DinaupServidor.PNG)
 
 El servidor debe ejecutarse en un ordenador con SAI o en la nube. Debe tener accesible el puerto (defecto `19263`).
 
@@ -32,7 +32,7 @@ Si desea iniciar el servicio puede utilizar  `c:\Dinaup\TAdmin.exe`
 
 # Dinaup Terminal
 
-![](/imagenes/Captura_DinaupTerminal.PNG)
+![](../imagenes/Captura_DinaupTerminal.PNG)
 
 > **Note** 
 > Este ejecutable únicamente está tanto en el servidor, como en el ordenador de los empleados.
@@ -40,4 +40,4 @@ Si desea iniciar el servicio puede utilizar  `c:\Dinaup\TAdmin.exe`
 
 
 
- 
+
